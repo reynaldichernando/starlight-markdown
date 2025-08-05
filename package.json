@@ -1,0 +1,13 @@
+{
+  "name": "starlight-markdown",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "pnpm --filter docs run dev",
+    "build": "pnpm --filter docs run build",
+    "preview": "pnpm --filter docs run preview"
+  },
+  "keywords": [],
+  "author": ""
+}

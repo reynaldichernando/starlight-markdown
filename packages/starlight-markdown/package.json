@@ -1,0 +1,22 @@
+{
+  "name": "starlight-markdown",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "type": "module",
+  "devDependencies": {
+    "@astrojs/starlight": "^0.35.2"
+  },
+  "peerDependencies": {
+    "astro": "^5.0.0"
+  },
+  "files": [
+    "index.js",
+    "markdown.js"
+  ]
+}
