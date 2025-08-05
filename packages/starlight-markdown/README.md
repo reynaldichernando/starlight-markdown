@@ -1,6 +1,6 @@
 # starlight-markdown
 
-Generate Markdown format with your Starlight documentation for LLMs
+Generate Markdown files from your Starlight documentation.
 
 ![starlight-markdown](https://raw.githubusercontent.com/reynaldichernando/starlight-markdown/refs/heads/main/docs/public/banner.png)
 
