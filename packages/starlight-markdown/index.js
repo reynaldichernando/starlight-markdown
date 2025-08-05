@@ -1,4 +1,4 @@
-function starlightMarkdownIntegration(options) {
+export function starlightMarkdownIntegration(options) {
   return {
     name: "starlight-markdown",
     hooks: {
