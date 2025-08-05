@@ -14,9 +14,5 @@
   },
   "peerDependencies": {
     "astro": "^5.0.0"
-  },
-  "files": [
-    "index.js",
-    "markdown.js"
-  ]
+  }
 }
