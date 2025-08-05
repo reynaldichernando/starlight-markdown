@@ -2,6 +2,8 @@
 
 Generate Markdown format with your Starlight documentation for LLMs
 
+![starlight-markdown](docs/public/banner.png)
+
 ## Usage
 
 Install the plugin by running the following command:
