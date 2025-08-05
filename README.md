@@ -4,6 +4,12 @@ Generate Markdown format with your Starlight documentation for LLMs
 
 ## Usage
 
+Install the plugin by running the following command:
+
+```bash
+npm i starlight-markdown
+```
+
 Inside your astro.config.mjs file add the starlightMarkdown plugin:
 
 ```js
