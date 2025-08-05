@@ -1,1 +1,1 @@
-export declare const starlightMarkdown: () => {};
+export default function starlightMarkdown(): any;
