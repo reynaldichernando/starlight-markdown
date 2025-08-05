@@ -4,6 +4,10 @@ function starlightMarkdownIntegration(options) {
     hooks: {
       "astro:config:setup": async ({ injectRoute }) => {
         injectRoute({
+          pattern: "/index.md",
+          entrypoint: "starlight-markdown/markdown.md.js",
+        });
+        injectRoute({
           pattern: "/[...path]/index.md",
           entrypoint: "starlight-markdown/markdown.md.js",
         });

@@ -3,7 +3,7 @@ import { getCollection, getEntry } from "astro:content";
 export async function GET({ params }) {
   const { path } = params;
 
-  const doc = await getEntry("docs", path);
+  const doc = await getEntry("docs", path || "index");
   const markdown = `# ${doc.data.title}\n\n` + doc.body;
 
   return new Response(markdown, {
