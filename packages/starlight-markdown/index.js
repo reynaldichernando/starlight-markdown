@@ -12,7 +12,7 @@ function starlightMarkdownIntegration(options) {
   };
 }
 
-export default function starlightContextualMenu(userConfig) {
+export default function starlightMarkdown(userConfig) {
   return {
     name: "starlight-markdown",
     hooks: {
