@@ -2,7 +2,7 @@
 
 Generate Markdown format with your Starlight documentation for LLMs
 
-![starlight-markdown](docs/public/banner.png)
+![starlight-markdown](https://raw.githubusercontent.com/reynaldichernando/starlight-markdown/refs/heads/main/docs/public/banner.png)
 
 See it on a live documentation page: [HTML](https://corsfix.com/docs/cors-proxy/api) vs. [Markdown](https://corsfix.com/docs/cors-proxy/api/index.md)
 
@@ -42,4 +42,4 @@ These are static files, meaning you can still any static hosting site without a 
 
 ## License
 
-[MIT](LICENSE)
+[MIT](https://github.com/reynaldichernando/starlight-markdown/blob/main/LICENSE)
