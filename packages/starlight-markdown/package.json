@@ -1,14 +1,15 @@
 {
   "name": "starlight-markdown",
-  "version": "0.0.5",
-  "description": "",
+  "version": "0.1.0",
+  "description": "Generate Markdown format with your Starlight documentation for LLMs",
   "main": "index.js",
   "types": "index.d.ts",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "astro",
+    "starlight",
+    "markdown"
+  ],
+  "author": "reynaldichernando",
   "type": "module",
   "devDependencies": {
     "@astrojs/starlight": "^0.35.2"
